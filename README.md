@@ -11,5 +11,5 @@ All have been eventually solved. But these are the issues that I have faced
 3. When installing dependencies - should give the name of your function name and Account ID and details
 
 ## an image and thumbnail that your Lambda processed
-![Elle](Elle.jpg)
-![Resized-Elle](resized-Elle.jpg)
+![Elle](/assets/Elle.jpg)
+![Resized-Elle](/assets/resized-Elle.jpg)
